@@ -31,7 +31,8 @@ Effective inventory management is crucial for minimizing costs and ensuring prod
    - Prepare a detailed report summarizing the project, including data insights, model performance, and recommendations for operational decision-making.
 
 ## Example
-![image](https://github.com/nkusharoraa/SCM/assets/59050030/7e1efab0-726b-4eb1-b6ad-86989de11d55)
+![image](https://github.com/nkusharoraa/InventoryMangement/assets/59050030/d774febd-0c5d-4a04-9806-05180cb2f9df)
+
 
 ```
 EOQ: 275.13632984395207
@@ -56,7 +57,8 @@ Visualize how EOQ is determined based on:
 - Annual demand
 - Ordering costs
 - Holding costs
-<img src="https://github.com/nkusharoraa/SCM/assets/59050030/fc04f7b0-e722-4436-8464-6343520b9c49" width=500 />
+  
+<img src="https://github.com/nkusharoraa/InventoryMangement/assets/59050030/54ef5e8d-dbee-496d-b0a2-888d1f7d45e6" width=500 />
 
 ### 3. Reorder Points
 
@@ -76,7 +78,9 @@ Compare different inventory models (EOQ, single-period, multi-period) by:
 - Total cost
 - Service levels
 - Stockout rates
-<img src="https://github.com/nkusharoraa/SCM/assets/59050030/52537f9a-d355-43d0-9fca-e5f4bd36f31e" width=500 />
+  
+
+<img src="https://github.com/nkusharoraa/InventoryMangement/assets/59050030/48157a0c-753e-4681-a852-e65373f600b3" width=500 />
 
 ### 6. Stochastic Demand Analysis
 
