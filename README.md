@@ -1,5 +1,9 @@
 # Advanced Inventory Management
 
+## Repository Link
+
+[Inventory Management](https://github.com/nkusharoraa/InventoryMangement)
+
 ## Project Overview
 
 Effective inventory management is crucial for minimizing costs and ensuring product availability. This project aims to develop and analyze inventory management models, focusing on Economic Order Quantity (EOQ), single-period and multi-period inventory models, and handling stochastic demand.
